@@ -56,7 +56,7 @@ Installation
     Clone the Repository
 
 bash
-git clone https://github.com/your-username/PhiFusion.git
+git clone https://github.com/rituraj-gharat/Multi-Agent-Finance-Research-AI.git
 cd PhiFusion
 
 Set Up a Virtual Environment and Install Dependencies
